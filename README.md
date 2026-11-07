@@ -1,2 +1,2 @@
-# hello-world-github-actions-pytest
-Hello world for pytest on GitHub Actions.
+# hello-world-github-actions-pytest-package
+Hello world for pytest for Python package on GitHub Actions.
